@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ROS2 with Computer Vision.
 - 💞️ I’m looking to collaborate on Research papers and R&D projects in ROS2 and OpenCV.
 - 📫 Reach me on krishnasinghc24@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Meet Me Once.
 
 <!---
